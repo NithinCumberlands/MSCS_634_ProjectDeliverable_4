@@ -36,5 +36,5 @@ I developed an IoT-driven system to help small-scale farmers optimize irrigation
   3. Low moisture/high temperature (“stress”)  
 - **Key Rule:** High temperatures often coincide with adequate moisture (support = 0.12, confidence = 0.75), reflecting controlled irrigation.
 
----
+
 
